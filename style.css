@@ -1,0 +1,17 @@
+.name{
+    color:brown;
+    font-size: 20px;
+}
+.price{
+    color: chocolate;
+    font-size: 20px;
+}
+.data{
+    color: cornflowerblue;
+    font-size: 20px;
+}
+.button{
+    height: 30px;
+    width: 160px;
+    color: brown;
+}
